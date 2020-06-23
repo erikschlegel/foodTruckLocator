@@ -1,4 +1,4 @@
-# foodTruckLocator
+# Food Truck Locator
 <h2>Solution to the Food Truck Challenge</h2>
 This repository contains a not quite completed solution to the Food truck locator.
 <p>The included executable file will onle run on a Linux machine.  The command to run the program is:
